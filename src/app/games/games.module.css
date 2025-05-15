@@ -45,7 +45,7 @@
   .logo {
     font-size: 1.8rem;
     font-weight: 700;
-    color: var(--primary-color);
+    color: #7209b7;
     margin: 0;
   }
   
@@ -65,7 +65,7 @@
   }
   
   .navLink:hover {
-    color: var(--primary-color);
+    color: #7209b7;
   }
   
   /* Cabeçalho da página */
@@ -75,7 +75,7 @@
   
   .gamesTitle {
     font-size: 2rem;
-    color: var(--primary-color);
+    color: #7209b7;
     margin-bottom: 0.5rem;
   }
   
@@ -128,7 +128,7 @@
   }
   
   .searchInput:focus {
-    border-color: var(--primary-color);
+    border-color: #7209b7;
   }
   
   .searchButtons {
@@ -150,12 +150,12 @@
   }
   
   .searchButton {
-    background-color: var(--primary-color);
+    background-color: #7209b7;
     color: white;
   }
   
   .searchButton:hover {
-    background-color: #2f0885;
+    background-color: #7209b7;
   }
   
   .clearButton {
@@ -168,7 +168,7 @@
   }
   
   .retryButton {
-    background-color: var(--primary-color);
+    background-color: #7209b7;
     color: white;
     margin-top: 1rem;
   }
@@ -239,7 +239,7 @@
   }
   
   .gameCardHeader {
-    background-color: var(--primary-color);
+    background-color: #7209b7;
     color: white;
     padding: 1rem;
   }
@@ -269,14 +269,14 @@
   }
   
   .gameLink {
-    color: var(--primary-color);
+    color: #7209b7;
     font-weight: 500;
     text-decoration: none;
     transition: color 0.3s;
   }
   
   .gameLink:hover {
-    color: var(--accent-color);
+    color: #7209b7;
     text-decoration: underline;
   }
   
@@ -298,14 +298,14 @@
   }
   
   .pageButton:hover:not(.disabled):not(.active) {
-    border-color: var(--primary-color);
-    color: var(--primary-color);
+    border-color: #7209b7;
+    color: #7209b7;
   }
   
   .pageButton.active {
-    background-color: var(--primary-color);
+    background-color: #7209b7;
     color: white;
-    border-color: var(--primary-color);
+    border-color: #7209b7;
     font-weight: 600;
   }
   
